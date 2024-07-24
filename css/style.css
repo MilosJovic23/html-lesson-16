@@ -1,0 +1,11 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.h-500 {
+	height: 500px;
+}
+.slika {
+	height: 80vh;
+}
